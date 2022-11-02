@@ -12,11 +12,11 @@ output:
   postcards::trestles
 ---
  
-## Sobre
+## Sobre:
 
 Estudante de Eng.Mecatrônica na UFSJ apaixonado pela tecnologia. Proativo e com grande potêncial em liderança. Com muito esforço e determinação, busca cada dia mais o desenvolvimento do seu acervo profissional. Deseja sempre o bem estar coletivo, gerando um ambiente agradavel e de grande produtividade. O âmbito acadêmico tem mostrado que a cada dia algo novo pode ser descoberto, barreiras sempre são quebradas, nada é impossivel ao seu ponto de vista, luta, conquista e sonha por um grande futuro profissional e familiar.
 
-## Educação
+## Educação:
 
 **Universidade Federal de São João del-Rei (UFSJ)** | Ouro Branco, MG
 
