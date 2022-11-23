@@ -8,6 +8,8 @@ links:
     url: "https://github.com/andrebzf"
   - label: Email
     url: "mailto:obarbozafarias@gmail.com"
+  - label: Lattes
+    url: "http://lattes.cnpq.br/7942623659687505"
 output:
   postcards::trestles
 ---
