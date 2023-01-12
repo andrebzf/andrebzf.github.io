@@ -13,26 +13,55 @@ links:
 output:
   postcards::trestles
 ---
- 
-## Sobre:
 
-Estudante de Eng.Mecatrônica na UFSJ apaixonado pela tecnologia. Proativo e com grande potêncial em liderança. Com muito esforço e determinação, busca cada dia mais o desenvolvimento do seu acervo profissional. Deseja sempre o bem estar coletivo, gerando um ambiente agradavel e de grande produtividade. O âmbito acadêmico tem mostrado que a cada dia algo novo pode ser descoberto, barreiras sempre são quebradas, nada é impossivel ao seu ponto de vista, luta, conquista e sonha por um grande futuro profissional e familiar.
+## > Sobre:
 
-## Educação:
+  Estudante de Eng.Mecatrônica na UFSJ apaixonado pela tecnologia. Proativo e com grande potêncial em liderança. Com muito esforço e determinação, busca cada dia mais o desenvolvimento do seu acervo profissional. Deseja sempre o bem estar coletivo, gerando um ambiente agradavel e de grande produtividade. O âmbito acadêmico tem mostrado que a cada dia algo novo pode ser descoberto, barreiras sempre são quebradas, nada é impossivel ao seu ponto de vista, luta, conquista e sonha por um grande futuro profissional e familiar.
 
-**Universidade Federal de São João del-Rei (UFSJ)** | Ouro Branco, MG
+## > Educação:
 
-Bacharelado | Engenharia Mecatrônica | Setembro 2020 - Setembro 2027
+**Universidade Federal de São João del-Rei (UFSJ)** \| Ouro Branco, MG
 
-**Serviço Nacional de Aprendizagem Comercial (SENAC)** | Rio de Janeiro, RJ
+Bacharelado \| Engenharia Mecatrônica \| Setembro 2020 - Setembro 2027
 
-Profissionalizante | Operador de Computador | Setembro 2019 - Julho 2021
+Certificado \| R (Básico - Intermediario) \| Setembro 2020 - Junho 2021
 
-**SENAC** & **Cisco Academy** | Rio de Janeiro, RJ
+**Serviço Nacional de Aprendizagem Comercial (SENAC)** \| Rio de Janeiro, RJ
 
-Certificado | I.T. Essentials | Setembro 2020 - Maio 2021
+Profissionalizante \| Operador de Computador \| Setembro 2019 - Julho 2021
+
+**SENAC** & **Cisco Academy** \| Rio de Janeiro, RJ
+
+Certificado \| I.T. Essentials \| Setembro 2020 - Maio 2021
 
 
-## Motivacional
+## > Desenvolvimento(T.I.):
+
+### Linguagens
+**R** | **TCL/TK** | **Python** | **C++** | **HTML/CSS/JAVASCRIPT** | **GIT** | **SQL**.
+
+### Softwares:
+- Sony Vegas;
+- Adobe After Effect;
+- Adobe Premiere;
+- Adobe Photoshop; 
+- Office FULL; 
+- PowerBi;
+- Linux.
+
+## > Projetos:
+- **Leem** - Laboratório de Estatistica e Matematica | Julho 2022 - Dezembro 2022:
+
+Esse projeto tem por objetivo, criar uma interface gráfica ao usuário no R, usando os pacotes tcltk e shiny. Apresenta temas simples e complexos de forma interativa, para que o professor dessas área possam abordar o tema de modo mais praticos.
+
+- **Statscience** - Estatistica e Analise de Dados.
+
+Esse projeto tem por objetivo, criar um pacote à ser utilizado na linguagem R, para aplicação de conceitos estatisticos na analise de dados, ou Data Science. Sâo abordados diversos conceitos como BigData, SQL e mais.
+
+- **Bussines Inteligence** - Pequenas Empresas Inteligentes.
+
+Neste projeto foram desenvolvidas tecnicas para uso de aplicativos e ferramentas que auxiliaram pequenas empresas da rede SENAC a gerenciar e organizar a saida e entrada de produtos, atendimento ao cliente e melhores resultados financeiros das mesmas.
+
+Continua em breve...
 
 "O impossível não é um fato, apenas uma opinião" - Muhammad Ali
