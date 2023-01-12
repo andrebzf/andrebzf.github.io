@@ -41,6 +41,7 @@ Certificado \| I.T. Essentials \| Setembro 2020 - Maio 2021
 **R** | **TCL/TK** | **Python** | **C++** | **HTML/CSS/JAVASCRIPT** | **GIT** | **SQL**.
 
 ### Softwares:
+- AutoCAD;
 - Sony Vegas;
 - Adobe After Effect;
 - Adobe Premiere;
