@@ -1,5 +1,5 @@
 ---
-title: "Andre BzF"
+title: "Andre Barboza Farias"
 image: "perfil.jpg"
 links:
   - label: LinkedIn
@@ -51,17 +51,19 @@ Certificado \| I.T. Essentials \| Setembro 2020 - Maio 2021
 - Linux.
 
 ## > Projetos:
-- **Leem** - Laboratório de Estatistica e Matematica | Julho 2022 - Dezembro 2022:
 
-Esse projeto tem por objetivo, criar uma interface gráfica ao usuário no R, usando os pacotes tcltk e shiny. Apresenta temas simples e complexos de forma interativa, para que o professor dessas área possam abordar o tema de modo mais praticos.
 
-- **Statscience** - Estatistica e Analise de Dados.
+- **Statscience** - Estatística e Análise de Dados | Dezembro 2022 - Atual:
 
-Esse projeto tem por objetivo, criar um pacote à ser utilizado na linguagem R, para aplicação de conceitos estatisticos na analise de dados, ou Data Science. Sâo abordados diversos conceitos como BigData, SQL e mais.
+Esse projeto tem por objetivo, criar um pacote à ser utilizado na linguagem R, para aplicação de conceitos estatísticos na análise de dados, ou Data Science. Sâo abordados diversos conceitos como BigData, SQL e mais.
 
-- **Bussines Inteligence** - Pequenas Empresas Inteligentes.
+- **Leem** - Laboratório de Estatística e Matemática | Julho 2022 - Dezembro 2022:
 
-Neste projeto foram desenvolvidas tecnicas para uso de aplicativos e ferramentas que auxiliaram pequenas empresas da rede SENAC a gerenciar e organizar a saida e entrada de produtos, atendimento ao cliente e melhores resultados financeiros das mesmas.
+Esse projeto tem por objetivo, criar uma interface gráfica ao usuário no R, usando os pacotes tcltk e shiny. Apresenta temas simples e complexos de forma interativa, para que o professor dessas áreas possa abordar o tema de modo mais pratico.
+
+- **Bussines Inteligence** - Pequenas Empresas Inteligentes | Julho 2020 - Março 2021:
+
+Neste projeto foram desenvolvidas técnicas para uso de aplicativos e ferramentas que auxiliaram pequenas empresas da rede SENAC a gerenciar e organizar a saida e entrada de produtos, atendimento ao cliente e melhores resultados financeiros das mesmas.
 
 Continua em breve...
 
