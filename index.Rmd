@@ -38,30 +38,40 @@ Certificado \| I.T. Essentials \| Setembro 2020 - Maio 2021
 ## > Desenvolvimento(T.I.):
 
 ### Linguagens
-**R** | **TCL/TK** | **Python** | **C++** | **HTML/CSS/JAVASCRIPT** | **GIT** | **SQL**.
+**R** | **TCL/TK** | **Python** | **C** | **C++** | **C#** | **HTML/CSS/JAVASCRIPT** | **GIT** | **Assembly** | **SQL**.
 
 ### Softwares:
 - AutoCAD;
+- Blender
+- Cinema4D
 - Sony Vegas;
 - Adobe After Effect;
 - Adobe Premiere;
 - Adobe Photoshop; 
 - Office FULL; 
 - PowerBi;
-- Linux.
+- SQL Server;
+- Unity;
+- Unreal Engine;
+- Linux;
+- GNS3;
+- Virtual Box;
+- Outros...
 
 ## > Projetos:
+
+
+- <p><a href = "https://github.com/andrebzf/leem">Leem</a>- Laboratório de Estatística e Matemática | Julho 2022 - Atual:
+</p>
+Com o crescente avanço do ensino remoto ou ensino à distância (online), após pandemia, procuramos diversas formas de suprir a aprendizagem no ensino presencial. Diante disso, publicamos recentemente o pacote leem (ALMEIDA, 2022; BATISTA; ALMEIDA, 2022), no ambiente R, como uma ferramenta auxiliar para o ensino da estatística e matemática para o ensino fundamental e superior. Com a implementação de uma interface gráfica, o usuário é capaz de utilizar o leem sem a necessidade de programar em R. Até o momento, a interface do leem foi desenvolvida (BATISTA, 2022), em sua versão 0.1.0, com pequenas implementações de atividades do ensino fundamental para a área da matemática. Diante da necessidade de auxiliar as atividades desenvolvidas para o ensino da estatística, modalidade ensino superior, desenvolveremos ferramentas para o estudo introdutório da Estatística Básica, que compreende, a organização, tabulação, apresentação gráfica, bem como as medidas resumo.
 
 
 - <p><a href = "https://github.com/andrebzf/statscience">Statscience</a>- Estatística e Análise de Dados | Dezembro 2022 - Atual:
 </p>
 Esse projeto tem por objetivo, criar um pacote à ser utilizado na linguagem R, para aplicação de conceitos estatísticos na análise de dados, ou Data Science. Sâo abordados diversos conceitos como BigData, SQL e mais.
 
-- <p><a href = "https://github.com/andrebzf/leem">Leem</a>- Laboratório de Estatística e Matemática | Julho 2022 - Dezembro 2022:
-</p>
-Esse projeto tem por objetivo, criar uma interface gráfica ao usuário no R, usando os pacotes tcltk e shiny. Apresenta temas simples e complexos de forma interativa, para que o professor dessas áreas possa abordar o tema de modo mais pratico.
 
-- <p>**Bussines Inteligence** - Pequenas Empresas Inteligentes | Julho 2020 - Março 2021:</p>
+- <p>**Bussines Inteligence** - Pequenas Empresas Inteligentes | Setembro 2019 - Março 2020:</p>
 Neste projeto foram desenvolvidas técnicas para uso de aplicativos e ferramentas que auxiliaram pequenas empresas da rede SENAC a gerenciar e organizar a saida e entrada de produtos, atendimento ao cliente e melhores resultados financeiros das mesmas.
 
 Continua em breve...
