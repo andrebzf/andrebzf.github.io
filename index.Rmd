@@ -1,6 +1,6 @@
 ---
 title: "Andre Barboza Farias"
-image: "perfil.jpg"
+image: "perfil.png"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/in/andrebzf"
